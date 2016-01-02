@@ -1,0 +1,5 @@
+<canvas style="border: solid 1px" id="drawing" width="200" height="200"></canvas>
+
+<div>
+    <button id="serverButton">Act As Server</button>
+</div>
